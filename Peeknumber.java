@@ -1,4 +1,4 @@
-
+//peak element which is not smaller than its neighbours
 import java.util.*;
 
 public class Peeknumber {
