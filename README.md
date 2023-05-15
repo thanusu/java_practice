@@ -1,2 +1,3 @@
 # java_practice
-HackerRank Solution for Java.
+HackerRank Solution.
+LeetsCode Solution.
